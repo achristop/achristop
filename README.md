@@ -1,6 +1,6 @@
-<div align="center">
-
 ![Matrix](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xvNzJycmF4bDJlYjhscHMyaW1ibnlxeXZucjRpbmx3ZGltOGlwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif)
+
+<div align="center">
 
 # Andreas Christopoulos
 ### Software Engineer
