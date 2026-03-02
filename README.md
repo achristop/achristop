@@ -1,9 +1,5 @@
 <div align="center">
 
-![Battlestar Galactica](https://media.giphy.com/media/kBlljXO6nyVLCfrJ5E/giphy.gif)
-
-<br/>
-
 # Andreas Christopoulos
 ### Software Engineer
 
