@@ -25,26 +25,6 @@ Software Engineer at **[WelcomePickups](https://welcomepickups.com)** — buildi
 
 ---
 
-## 🔧 Projects
-
-| Project | Description | Language |
-|--------|-------------|----------|
-| [crossword](https://github.com/achristop/crossword) | A crossword program | C |
-| [movieworld](https://github.com/achristop/movieworld) | A social network for movies | PHP |
-| [pgm-processor](https://github.com/achristop/pgm-processor) | Portable graymap image processor | C |
-| [snake-game](https://github.com/achristop/snake-game) | The classic Snake game | C |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![achristop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achristop&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achristop&layout=compact&theme=dark&hide_border=true)
-
-</div>
 
 ---
 
