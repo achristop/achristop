@@ -1,6 +1,7 @@
-![Matrix](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xvNzJycmF4bDJlYjhscHMyaW1ibnlxeXZucjRpbmx3ZGltOGlwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif)
 
 <div align="center">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xvNzJycmF4bDJlYjhscHMyaW1ibnlxeXZucjRpbmx3ZGltOGlwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif" width="100%" />
 
 # Andreas Christopoulos
 ### Software Engineer
