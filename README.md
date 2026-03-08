@@ -17,7 +17,7 @@
 
 Software Engineer at **[WelcomePickups](https://welcomepickups.com)**, building travel technology that helps people move seamlessly around the world.
 
-I enjoy working across the stack — from low-level C programs to modern web apps — and I have a soft spot for clean code, great tooling, and the occasional classic game rewrite.
+I enjoy working across the stack from low-level C programs to modern web apps and I have a soft spot for clean code, great tooling, and best practices.
 
 ---
 
